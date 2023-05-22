@@ -1,13 +1,14 @@
 public class forString {
 
 public static void main(String[] args){
-    String[] cars = {"Volvo", "BMW", "Ford"};
+    String[] cars = {"BMW", "Volvo", "Alfa Romeo"};
 for
  (String i : 
 cars
 ) {
   System.out.println(i);
 }
+
     
 }
 }

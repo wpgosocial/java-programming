@@ -8,7 +8,7 @@ for
 i++
 ) {
  System.out.println(
-"Yes"
+"no"
 );
 }
     }

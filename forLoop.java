@@ -9,7 +9,7 @@ for
 i++
 ) {
  System.out.println(
-"no"
+"Yes"
 );
 }
     }

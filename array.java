@@ -7,7 +7,6 @@ public static void main(String[] args) {
     cars.add("BMW");
     cars.add("Ford");
     cars.add("Acura");
-    cars.add("Audi");
     cars.add("volvo");
     cars.add("Jaguar");
 }
